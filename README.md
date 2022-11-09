@@ -21,6 +21,7 @@ Create a website with the following specifications:
 ○	When the Submit button is clicked, a new Person object is created using the data input into the input boxes. (10pts)
 
   ■	The Person object has a firstName, lastName, and age.
+  
 ○	When the Submit button is clicked, a message should display showing the new object’s firstName, LastName, and age (see example in figure 2 below) (15pts)
 
 ○	Add styling of your choice using the CSS file. (10pts)
