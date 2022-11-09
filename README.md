@@ -6,6 +6,7 @@ Instructions:
 Create a website with the following specifications:
 
 ○	Main heading with the statement “Input your information” (5pts)
+
 ○	3 input boxes
 
   ■	1 input box with a placeholder of “First Name” (10pts)
